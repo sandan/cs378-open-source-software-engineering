@@ -5,11 +5,11 @@
 
 ## Goal
 
-*space filling curve implementations
+* implement performant space filling curves
 
-*scalable test and benchmark framework  
+* implement scalable test and benchmark framework  
 
-*flawless documentation, high test coverage, and example use cases 
+* flawless documentation, high test coverage, and example use cases 
 
 ## Plan
 
